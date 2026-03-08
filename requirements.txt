@@ -1,0 +1,8 @@
+# Azure AI Foundry / AI Projects (pre-release for agent support)
+azure-ai-projects>=2.0.0b1
+
+# Azure authentication
+azure-identity>=1.15.0
+
+# Optional: load env from .env file
+python-dotenv>=1.0.0
